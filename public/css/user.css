@@ -1,10 +1,10 @@
 .for {
     margin: auto;
-    border: 1px solid #ccc;
+    border: 1px solid aquamarine;
     border-radius: 5px;
     width: 300px;
     padding: 15px;
-    background-color: #f9f9f9; /* Cor de fundo */
+    background-color: aquamarine; /* Cor de fundo */
 }
 
 h2 {
@@ -16,13 +16,13 @@ button {
     display: block; /* Certifique-se de que o botão ocupa toda a largura */
     margin: 10px auto; /* Centralize o botão */
     padding: 10px 20px; /* Adicione preenchimento interno */
-    background-color: #4CAF50; /* Cor de fundo do botão */
+    background-color:pink; /* Cor de fundo do botão */
     border: none; /* Remova a borda */
-    color: #fff; /* Cor do texto */
+    color: black; /* Cor do texto */
     border-radius: 3px; /* Arredonde as bordas */
     cursor: pointer; /* Adicione um cursor de ponteiro ao passar o mouse sobre o botão */
 }
 
 button:hover {
-    background-color: #45a049; /* Cor de fundo do botão ao passar o mouse */
+    background-color: pink; /* Cor de fundo do botão ao passar o mouse */
 }
